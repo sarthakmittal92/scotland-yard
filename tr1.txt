@@ -1,0 +1,4 @@
+Welcome. You play Detective 4 in Game 5000:10. You start on square 0. Make a move, and wait for feedback
+Move 4; Detective 4; Play; Detectives on 51, 40, 0, 24, 16
+Move 5; Detective 4; Play; Detectives on 52, 45, 4, 8, 21
+Move 6; Detective 4; Play; Detectives on 48, 13, 20, 9, 61

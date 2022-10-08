@@ -1,0 +1,4 @@
+http://net-informations.com/java/net/multithreaded.htm
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
+https://www.geeksforgeeks.org/thread-pools-java/
+https://www.geeksforgeeks.org/semaphore-in-java/
